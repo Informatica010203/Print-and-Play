@@ -4,6 +4,7 @@ Website voor Informatica om 3D Fidgets te verkopen.
 
 
 Teamleden:
-    Jorian van Lieshout, Rol: Manager + Product.
+    
+    Jorian van Lieshout, Informatica010203 Rol: Manager + Product.
    
-    Riza Mousavi, Rol: Kwaliteit + Marketing.
+    Riza Mousavi, Riza071 Rol: Kwaliteit + Marketing.

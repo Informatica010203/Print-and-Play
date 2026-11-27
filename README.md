@@ -1,15 +1,18 @@
-# Print-and-Play
+\# [Productnaam]
 
-Website voor Informatica om 3D Fidgets te verkopen.
+## Klantwens
+[Wie is de klant en wat wil die kunnen doen?]
 
-# Projectnaam: [# Print-and-Play]
+## Hoofdissues
+- [D) Klantvraag en ontwerp](https://github.com/TEAM/REPO/issues/NUMMER-D)
+- [E) Bouw en eerste tests](https://github.com/TEAM/REPO/issues/NUMMER-E)
+- [I) Verbetering en hertests](https://github.com/TEAM/REPO/issues/NUMMER-I)
+- [M) Uitleg en samenwerking](https://github.com/TEAM/REPO/issues/NUMMER-M)
 
-Welkom bij onze repository! Hier werken we samen aan ons product.
+## Zo gebruik je het
+1. [Waar begin je?]
+2. [Wat doe je en wat zie je daarna?]
 
-## Teamleden
-| Naam | Rol | GitHub-gebruikersnaam |
-| :--- | :--- | :--- |
-| [Jorian] | Manager | @[informatica010203] |
-| [Riza] | Marketing | @[Riza071] |
-| [Jorian] | Product | @[informatica010203] |
-| [Riza] | Kwaliteit | @[Riza071] |
+## Code en demo
+- [Broncode](https://github.com/TEAM/REPO)
+- [Open de demo](https://JULLIE-DEMO)
